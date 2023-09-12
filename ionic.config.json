@@ -1,0 +1,7 @@
+{
+  "name": "GovInvoice-SIH-Task",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
