@@ -1,0 +1,13 @@
+.tab-third-page{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+}
+.setting-btn{
+    text-transform: capitalize;
+}
+.setting-btn span{
+    margin-right: 5px;
+}
